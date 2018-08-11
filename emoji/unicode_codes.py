@@ -3211,7 +3211,7 @@ EMOJI_ALIAS_UNICODE = dict(EMOJI_UNICODE.items(), **{
     u':flag_for_St._Helena:': u'\U0001F1F8\U0001F1ED',
     u':flag_for_St._Kitts_&_Nevis:': u'\U0001F1F0\U0001F1F3',
     u':flag_for_St._Lucia:': u'\U0001F1F1\U0001F1E8',
-    u':flag_for_St._Martin:': u'\U0001F1F2\U0001F1EB',
+    u':flag_for_St._Martin:': u'\U0001F1F8\U0001F1FD',
     u':flag_for_St._Pierre_&_Miquelon:': u'\U0001F1F5\U0001F1F2',
     u':flag_for_St._Vincent_&_Grenadines:': u'\U0001F1FB\U0001F1E8',
     u':flag_for_Sudan:': u'\U0001F1F8\U0001F1E9',
